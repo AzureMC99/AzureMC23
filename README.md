@@ -18,4 +18,4 @@
 <a href="https://discord.gg/https://discord.gg/9YKbZbyXdm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9YKbZbyXdm" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azuremc23&show_icons=true&theme=dark&locale=en&layout=compact" alt="azuremc23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azuremc23&show_icons=true&theme=synthwave&locale=en" alt="azuremc23" /></p>
